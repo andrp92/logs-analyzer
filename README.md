@@ -1,1 +1,1 @@
-# devops-challenge
+# logs-analyser
