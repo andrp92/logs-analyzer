@@ -1,1 +1,1 @@
-# logs-analyser
+# logs-analyzer
